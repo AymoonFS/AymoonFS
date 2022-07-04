@@ -2,7 +2,7 @@
 
 🔭 I’m currently working with Python Game Development and learning some python library along the way
 
-💬 I'm interested in learning C and getting into the Frontend area.
+💬 I'm interested in learning C.
 
 ##
 
