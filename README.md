@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working with Python Game Development and learning some python library along the way
+🔭 Currently, I am studying data analysis and looking for opportunities to develop myself professionally
 
 ##
 
